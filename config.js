@@ -1,7 +1,7 @@
 const PORT = process.env.PORT || (process.env.NODE_ENV == "test" ? 9444 : 9443);
 module.exports = {
 
-    baseUrl: process.env.BASE_URL || `http://localhost:${PORT}`,
+    baseUrl: http://r1-bulkfhir.paas-poc.am.lilly.com,
 
     port: PORT,
 
